@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'ab468947fb1f4151a3f1f4de8308446c',
+  rootNotionPageId: '60669525cd954c589e1c93b45fe70b83',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -59,7 +59,7 @@ export default siteConfig({
   //   },
   //   {
   //     title: 'Contact',
-  //     pageId: 'ab468947fb1f4151a3f1f4de8308446c'
+  //     pageId: '60669525cd954c589e1c93b45fe70b83'
   //   }
   // ]
 })
